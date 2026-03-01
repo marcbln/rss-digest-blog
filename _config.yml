@@ -1,7 +1,6 @@
-title: "My Jekyll Blog"
-email: your-email@example.com
+title: "AI Assisted Programming"
 description: >-
-  A simple blog powered by Jekyll and GitHub Pages.
+  News about AI tools for programming
 baseurl: "/rss-digest-blog"  # the subpath of your site, e.g. /blog
 url: "https://marcbln.github.io"  # your GitHub Pages URL
 github_username: marcbln
